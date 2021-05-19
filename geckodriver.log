@@ -1,0 +1,239 @@
+1620768131660	geckodriver	INFO	Listening on 127.0.0.1:39545
+1620768131719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeQAMb4"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620768143269	Marionette	INFO	Listening on port 42469
+1620768143600	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1620768169597	Marionette	INFO	Stopped listening on port 42469
+1620768346682	geckodriver	INFO	Listening on 127.0.0.1:59707
+1620768346730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenByoSf"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620768351185	Marionette	INFO	Listening on port 44971
+1620768351285	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620768429229	Marionette	INFO	Stopped listening on port 44971
+1620768455893	geckodriver	INFO	Listening on 127.0.0.1:48029
+1620768456900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRZyisE"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620768461907	Marionette	INFO	Listening on port 46865
+1620768461933	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript error: https://work.crowdsurfwork.com/, line 180: TypeError: $(...).dataTable is not a function
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620768560896	Marionette	INFO	Stopped listening on port 46865
+1620769557146	geckodriver	INFO	Listening on 127.0.0.1:49969
+1620769557150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKNpgrK"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620769560685	Marionette	INFO	Listening on port 41603
+1620769560779	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+console.info: MINT: main/search-config update being skipped
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620770278935	geckodriver	INFO	Listening on 127.0.0.1:51149
+1620770279015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4JLDZx"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+1620770287030	Marionette	INFO	Listening on port 42219
+1620770287057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+console.info: MINT: main/search-config update being skipped
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620770704702	Marionette	INFO	Stopped listening on port 41603
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620770708091	Marionette	INFO	Stopped listening on port 42219
+1620770717951	geckodriver	INFO	Listening on 127.0.0.1:49847
+1620770718712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUqLrJK"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620770737738	Marionette	INFO	Listening on port 43387
+1620770738034	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+1620770777051	geckodriver	INFO	Listening on 127.0.0.1:33225
+1620770777055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef1i3AK"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.info: MINT: Loading search-config defaults.
+console.error: SearchService: "_init: failure initializing search:" (void 0)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/SearchService.jsm, line 206: NS_ERROR_FAILURE: SearchService previously failed to initialize
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500037
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.jsm", 210))
+1620770797285	Marionette	INFO	Stopped listening on port 43387
+1620770805844	geckodriver	INFO	Listening on 127.0.0.1:33383
+1620770806828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDRh7vD"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620770811911	Marionette	INFO	Listening on port 44419
+1620770811956	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620770959046	Marionette	INFO	Stopped listening on port 44419
+1620770975049	geckodriver	INFO	Listening on 127.0.0.1:60395
+1620770975869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehOLwXO"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620770987329	Marionette	INFO	Listening on port 39979
+1620770987411	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620771181601	Marionette	INFO	Stopped listening on port 39979
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620771248404	geckodriver	INFO	Listening on 127.0.0.1:35859
+1620771248421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGbxVYD"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620771255017	Marionette	INFO	Listening on port 34851
+1620771255138	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620771305679	Marionette	INFO	Stopped listening on port 34851
+1620771371812	geckodriver	INFO	Listening on 127.0.0.1:38895
+1620771371831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTE8mqo"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620771376202	Marionette	INFO	Listening on port 40557
+1620771376262	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620771397673	Marionette	INFO	Stopped listening on port 40557
+1620771401185	geckodriver	INFO	Listening on 127.0.0.1:42045
+1620771401189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileliXGsF"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620771405524	Marionette	INFO	Listening on port 45937
+1620771405627	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).tooltip is not a function
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+console.info: MINT: main/search-config update being skipped
+JavaScript error: https://work.crowdsurfwork.com/static/js/custom.js, line 6: TypeError: jQuery(...).popover is not a function
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1620771780541	Marionette	INFO	Stopped listening on port 45937
